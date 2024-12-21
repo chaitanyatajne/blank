@@ -1,3 +1,3 @@
 # blank
-# owner: chaitanya
-# owner location: maharashtra
+ owner: chaitanya
+ owner location: maharashtra
